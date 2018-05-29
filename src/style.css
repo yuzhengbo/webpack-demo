@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'myFont';
+  src: url('./fontawesome-webfont.woff') format('woff'),
+       url('./fontawesome-webfont.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+.hello {
+  color: red;
+  background: url('./qq.jpg') no-repeat;
+  background-size: 100px;
+  font-family: 'MYfont';
+}
+img {
+  width: 100px;
+}
